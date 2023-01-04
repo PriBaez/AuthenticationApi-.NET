@@ -1,0 +1,32 @@
+/home/administrator/VSCode/Login Api/bin/Debug/net6.0/appsettings.Development.json
+/home/administrator/VSCode/Login Api/bin/Debug/net6.0/appsettings.json
+/home/administrator/VSCode/Login Api/bin/Debug/net6.0/Login Api
+/home/administrator/VSCode/Login Api/bin/Debug/net6.0/Login Api.deps.json
+/home/administrator/VSCode/Login Api/bin/Debug/net6.0/Login Api.runtimeconfig.json
+/home/administrator/VSCode/Login Api/bin/Debug/net6.0/Login Api.dll
+/home/administrator/VSCode/Login Api/bin/Debug/net6.0/ref/Login Api.dll
+/home/administrator/VSCode/Login Api/bin/Debug/net6.0/Login Api.pdb
+/home/administrator/VSCode/Login Api/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/home/administrator/VSCode/Login Api/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/administrator/VSCode/Login Api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/administrator/VSCode/Login Api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/administrator/VSCode/Login Api/obj/Debug/net6.0/Login Api.csproj.AssemblyReference.cache
+/home/administrator/VSCode/Login Api/obj/Debug/net6.0/Login Api.GeneratedMSBuildEditorConfig.editorconfig
+/home/administrator/VSCode/Login Api/obj/Debug/net6.0/Login Api.AssemblyInfoInputs.cache
+/home/administrator/VSCode/Login Api/obj/Debug/net6.0/Login Api.AssemblyInfo.cs
+/home/administrator/VSCode/Login Api/obj/Debug/net6.0/Login Api.csproj.CoreCompileInputs.cache
+/home/administrator/VSCode/Login Api/obj/Debug/net6.0/Login Api.MvcApplicationPartsAssemblyInfo.cs
+/home/administrator/VSCode/Login Api/obj/Debug/net6.0/Login Api.MvcApplicationPartsAssemblyInfo.cache
+/home/administrator/VSCode/Login Api/obj/Debug/net6.0/staticwebassets.build.json
+/home/administrator/VSCode/Login Api/obj/Debug/net6.0/staticwebassets.development.json
+/home/administrator/VSCode/Login Api/obj/Debug/net6.0/scopedcss/bundle/Login Api.styles.css
+/home/administrator/VSCode/Login Api/obj/Debug/net6.0/Login Api.csproj.CopyComplete
+/home/administrator/VSCode/Login Api/obj/Debug/net6.0/Login Api.dll
+/home/administrator/VSCode/Login Api/obj/Debug/net6.0/ref/Login Api.dll
+/home/administrator/VSCode/Login Api/obj/Debug/net6.0/Login Api.pdb
+/home/administrator/VSCode/Login Api/obj/Debug/net6.0/Login Api.genruntimeconfig.cache
+/home/administrator/VSCode/Login Api/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/home/administrator/VSCode/Login Api/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/administrator/VSCode/Login Api/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/home/administrator/VSCode/Login Api/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/home/administrator/VSCode/Login Api/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
